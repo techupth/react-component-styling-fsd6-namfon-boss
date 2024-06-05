@@ -8,7 +8,6 @@ function App() {
       <div className="button-components-section">
         {/* Render ตัว Button 2 แบบ */}
         <Button name="primary" />
-        <br />
         <Button name="secondary" />
       </div>
       <hr />

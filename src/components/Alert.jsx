@@ -36,6 +36,7 @@ function Alert(props) {
         flex-direction: row;
         align-items: center;
         margin: 30px;
+        font-family: "Kanit", sans-serif;
       `}
     >
       <img
